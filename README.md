@@ -1,2 +1,2 @@
 A Simple shell program created with C
-This is another group project
+This is another group project in alx
